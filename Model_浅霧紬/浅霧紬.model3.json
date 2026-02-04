@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "浅霧紬.moc3",
+		"Textures": [
+			"浅霧紬.2048/texture_00.png"
+		],
+		"Physics": "浅霧紬.physics3.json",
+		"DisplayInfo": "浅霧紬.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
