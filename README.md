@@ -1,6 +1,13 @@
 # Live2D_Model_TsumuguAsagiri
 
 Vtube Studio で利用可能なLive2Dモデルです。
+このモデルは、配信活動や友達との楽しい時間をより盛り上げるために制作しました。
+- YouTubeやTwitchでのライブ配信
+- お友達との通話や遊び
+- ちょっとした動画制作
+など、お気軽にご利用ください。
+
+![sample_gif](https://github.com/Log-Cig/Live2D_Model_TsumuguAsagiri/blob/main/images/sample.gif?raw=true)
 
 
 ## ⚠️ 利用上の注意 (Important Notes)
