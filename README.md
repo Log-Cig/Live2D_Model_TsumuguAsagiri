@@ -5,6 +5,7 @@ Vtube Studio で利用可能なLive2Dモデルです。
 - YouTubeやTwitchでのライブ配信
 - お友達との通話や遊び
 - ちょっとした動画制作
+
 など、お気軽にご利用ください。
 
 ![sample_gif](https://github.com/Log-Cig/Live2D_Model_TsumuguAsagiri/blob/main/images/sample.gif?raw=true)
@@ -33,6 +34,8 @@ Vtube Studio で利用可能なLive2Dモデルです。
 - **許可**: 商用利用、改変、再配布、およびそれらを使用した作品（動画・アプリ等）の公開。
 - **条件**: 著作権表示（クレジット）および本ライセンスの写しを含めること。
 - **責任**: 作者は本モデルの使用に関して一切の責任を負いません。
+
+[YT_Channel](https://www.youtube.com/@Log-Cig)登録もお願いします。（強制ではありません）
 
 > 詳細は付属の [LICENSE](./LICENSE) ファイルをご確認ください。
 
