@@ -35,10 +35,9 @@ Vtube Studio で利用可能なLive2Dモデルです。
 - **条件**: 著作権表示（クレジット）および本ライセンスの写しを含めること。
 - **責任**: 作者は本モデルの使用に関して一切の責任を負いません。
 
-[YT_Channel](https://www.youtube.com/@Log-Cig)登録もお願いします。（強制ではありません）
-
 > 詳細は付属の [LICENSE](./LICENSE) ファイルをご確認ください。
 
+[YT_Channel](https://www.youtube.com/@Log-Cig)登録をお願いします。
 
 ## クレジット例
 

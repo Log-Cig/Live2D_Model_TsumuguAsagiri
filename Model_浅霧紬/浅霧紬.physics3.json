@@ -4,7 +4,7 @@
 		"PhysicsSettingCount": 3,
 		"TotalInputCount": 12,
 		"TotalOutputCount": 3,
-		"VertexCount": 6,
+		"VertexCount": 7,
 		"Fps": 60,
 		"EffectiveForces": {
 			"Gravity": {
@@ -101,8 +101,18 @@
 						"X": 0,
 						"Y": 10
 					},
-					"Mobility": 0.8,
-					"Delay": 0.8,
+					"Mobility": 0.5,
+					"Delay": 0.5,
+					"Acceleration": 1,
+					"Radius": 10
+				},
+				{
+					"Position": {
+						"X": 0,
+						"Y": 20
+					},
+					"Mobility": 0.95,
+					"Delay": 1,
 					"Acceleration": 1,
 					"Radius": 10
 				}
